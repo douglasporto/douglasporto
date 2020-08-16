@@ -5,6 +5,7 @@
 
 ### You can find me on
 
+[![Blog Badge](https://img.shields.io/badge/Blog-douglasporto.com.br-6633cc)](https://douglasporto.com.br)
 [![Twitter Badge](https://img.shields.io/badge/-@dgsapenas-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dgsapenas)](https://twitter.com/dgsapenas) 
 [![Linkedin Badge](https://img.shields.io/badge/-Douglas%20Porto-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-porto/)](https://www.linkedin.com/in/douglas-porto/) 
 [![Gmail Badge](https://img.shields.io/badge/-douglasalexandre7@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglasalexandre7@gmail.com)](mailto:douglasalexandre7@gmail.com)
