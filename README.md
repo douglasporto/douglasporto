@@ -10,9 +10,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Douglas%20Porto-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-porto/)](https://www.linkedin.com/in/douglas-porto/) 
 [![Gmail Badge](https://img.shields.io/badge/-douglasalexandre7@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglasalexandre7@gmail.com)](mailto:douglasalexandre7@gmail.com)
 
-🐦 [Twitter](https://twitter.com/dgsapenas) <br>
-⚛️ [My site](https://douglasporto.com.br) <br>
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
