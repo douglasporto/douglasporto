@@ -13,7 +13,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Mostrando últimos posts e vídeos no Github Profile](https://willianjusten.com.br/mostrando-ultimos-posts-e-videos-no-github-profile/)
 - [Padronizando seus Commits](https:/douglasporto.com.br/blog/automatizando-seus-commits/)
 - [Bootcamp Rocketseat, vale a pena? Part-2](https:/douglasporto.com.br/blog/bootcamp-rocketseat-vale-a-pena-part-2/)
 - [GDPR – GENERAL DATA PROTECTION REGULATION](https:/douglasporto.com.br/blog/gdpr-–-general-data-protection-regulation/)
