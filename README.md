@@ -13,9 +13,4 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Padronizando seus Commits](https://douglasporto.com.brblog/automatizando-seus-commits/)
-- [Bootcamp Rocketseat, vale a pena? Part-2](https://douglasporto.com.brblog/bootcamp-rocketseat-vale-a-pena-part-2/)
-- [GDPR – GENERAL DATA PROTECTION REGULATION](https://douglasporto.com.brblog/gdpr-–-general-data-protection-regulation/)
-- [LGPD ou LEI GERAL DE PROTEÇÃO DE DADOS](https://douglasporto.com.brblog/lgpd-ou-lei-geral-de-proteção-de-dados/)
-- [MVP](https://douglasporto.com.brblog/mvp/)
 <!-- BLOG:END -->
