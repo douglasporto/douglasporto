@@ -1,4 +1,4 @@
-### <img src="https://ibb.co/2y9RZ3s" width="100px"><img src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif" width="100px"> Hello, I'm Douglas Porto, but call me DGS!
+### <img src="https://i.ibb.co/2y9RZ3s/IMG-3384.png" width="100px" /><img src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif" width="100px"> Hello, I'm Douglas Porto, but call me DGS!
 
 💻  Software Engineer at [Fabapp](https://fabricadeaplicativos.com.br/) <br>
 🏡  Brazilian, São Paulo - SP - but most of the time traveling around the world 🌎
