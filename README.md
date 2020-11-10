@@ -1,8 +1,8 @@
 <p align="center">
-  ### <img src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif" width="100px"> Hello, I'm Douglas Porto, but call me DGS!
+  <img src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif" width="100px"> Hello, I'm <strong>Douglas Porto</strong>, but call me <strong>DGS</strong>!
 </p>
 
-<p align="center">💻  Software Engineer at [Fabapp](https://fabricadeaplicativos.com.br/)</p> <br>
+<p align="center">💻  Software Engineer at [Fabapp](https://fabricadeaplicativos.com.br/)</p>
 <p align="center">🏡  Brazilian, São Paulo - SP - but most of the time traveling around the world 🌎</p>
 
 <p align="center">| JavaScript | TypeScript | Node | React | React Native |</p>
@@ -12,14 +12,14 @@
   </a>
 </p>
 
-<p align="center">
-  ### You can find me on
+
+ <div align="center">### You can find me on</div>
+ 
 [![Blog Badge](https://img.shields.io/badge/Blog-douglasporto.com.br-6633cc)](https://douglasporto.com.br)
 [![Twitter Badge](https://img.shields.io/badge/-@dgsapenas-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dgsapenas)](https://twitter.com/dgsapenas) 
 [![Linkedin Badge](https://img.shields.io/badge/-Douglas%20Porto-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-porto/)](https://www.linkedin.com/in/douglas-porto/) 
 [![Gmail Badge](https://img.shields.io/badge/-douglasalexandre7@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglasalexandre7@gmail.com)](mailto:douglasalexandre7@gmail.com)
-  
-</p>
+ 
 
 ### 📕 Latest Blog Posts
 <img src="https://i.ibb.co/2y9RZ3s/IMG-3384.png" width="60px" />
