@@ -11,7 +11,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-douglasalexandre7@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglasalexandre7@gmail.com)](mailto:douglasalexandre7@gmail.com)
 
 ### 📕 Latest Blog Posts
-<img src="https://i.ibb.co/2y9RZ3s/IMG-3384.png" width="100px" />
+<img src="https://i.ibb.co/2y9RZ3s/IMG-3384.png" width="60px" />
 
 <!-- BLOG:START -->
 - [Padronizando seus Commits](https://douglasporto.com.br/blog/automatizando-seus-commits/)
