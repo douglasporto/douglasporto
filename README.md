@@ -13,7 +13,7 @@
 </p>
 
 
- <div align="center">### You can find me on</div>
+ <center>### You can find me on</center>
  
 [![Blog Badge](https://img.shields.io/badge/Blog-douglasporto.com.br-6633cc)](https://douglasporto.com.br)
 [![Twitter Badge](https://img.shields.io/badge/-@dgsapenas-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dgsapenas)](https://twitter.com/dgsapenas) 
