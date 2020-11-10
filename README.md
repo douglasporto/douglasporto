@@ -3,6 +3,13 @@
 💻  Software Engineer at [Fabapp](https://fabricadeaplicativos.com.br/) <br>
 🏡  Brazilian, São Paulo - SP - but most of the time traveling around the world 🌎
 
+<p align="center">| JavaScript | TypeScript | Node | React | React Native |</p>
+<p align="center">
+  <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=douglasporto&hide=css,html">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=douglasporto&hide=css,html&layout=compact&theme=radical" />
+  </a>
+</p>
+
 ### You can find me on
 
 [![Blog Badge](https://img.shields.io/badge/Blog-douglasporto.com.br-6633cc)](https://douglasporto.com.br)
