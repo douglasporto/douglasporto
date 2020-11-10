@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif" width="100px"> Hello, I'm <strong>Douglas Porto</strong>, but call me <strong>DGS</strong>!
 </p>
 
-<p align="center">💻  Software Engineer at [Fabapp](https://fabricadeaplicativos.com.br/)</p>
+<p align="center">💻  Software Engineer at <a href="https://fabricadeaplicativos.com.br/" alt="Fabapp site" target="_blank">Fabapp</a></p>
 <p align="center">🏡  Brazilian, São Paulo - SP - but most of the time traveling around the world 🌎</p>
 
 <p align="center">| JavaScript | TypeScript | Node | React | React Native |</p>
