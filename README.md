@@ -13,8 +13,12 @@
 </p>
 
 
- <center>### You can find me on</center>
- 
+<p align="center">
+  <a href="https://douglasporto.com.br" alt="Personal site" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-douglasporto.com.br-6633cc" />
+  </a>
+
+</p> 
 [![Blog Badge](https://img.shields.io/badge/Blog-douglasporto.com.br-6633cc)](https://douglasporto.com.br)
 [![Twitter Badge](https://img.shields.io/badge/-@dgsapenas-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dgsapenas)](https://twitter.com/dgsapenas) 
 [![Linkedin Badge](https://img.shields.io/badge/-Douglas%20Porto-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-porto/)](https://www.linkedin.com/in/douglas-porto/) 
