@@ -11,7 +11,7 @@
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=douglasporto&hide=css,html&layout=compact&theme=radical" />
   </a>
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=douglasporto&show_icons=true" alt="douglasporto" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=douglasporto&show_icons=true&layout=compact&theme=radical" alt="douglasporto" /></p>
 
 <p align="center">
   <a href="https://douglasporto.com.br" alt="Personal site" target="_blank">
