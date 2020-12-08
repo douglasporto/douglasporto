@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/douglasporto/douglasporto/blob/master/octocat-mini.png" width="100px" />
+  <img src="https://github.com/douglasporto/douglasporto/blob/master/octocat-mini.png" width="300px" />
 
 <p align="center">💻  Software Engineer at <a href="https://fabricadeaplicativos.com.br/" alt="Fabapp site" target="_blank">Fabapp</a></p>
 <p align="center">🏡  Brazilian, São Paulo - SP - but most of the time traveling around the world 🌎</p>
