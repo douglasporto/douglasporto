@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest Dgs blog post workflow
 on:
   push:
   schedule:
