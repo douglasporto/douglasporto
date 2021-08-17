@@ -36,9 +36,9 @@
 <img src="https://i.ibb.co/2y9RZ3s/IMG-3384.png" width="60px" />
 
 <!-- BLOG:START -->
+- [Arquitetura e Design System para projetos em React](https://douglasporto.com.br/blog/arquitetura-e-design-system-para-projetos-em-react/)
 - [Mudanças: virando um acionista](https://douglasporto.com.br/blog/mudanças-virando-um-acionista/)
 - [Mudanças: empreendedor interno](https://douglasporto.com.br/blog/mudanças-empreendedor-interno/)
 - [Mudanças: recolocação profissional](https://douglasporto.com.br/blog/mundanças-recolocação-profissional/)
 - [Padronizando seus Commits](https://douglasporto.com.br/blog/automatizando-seus-commits/)
-- [Bootcamp Rocketseat, vale a pena? Part-2](https://douglasporto.com.br/blog/bootcamp-rocketseat-vale-a-pena-part-2/)
 <!-- BLOG:END -->
