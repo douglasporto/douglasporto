@@ -20,7 +20,7 @@
   <a href="https://douglasporto.com.br" alt="Personal site" target="_blank">
     <img src="https://img.shields.io/badge/Blog-douglasporto.com.br-6633cc" />
   </a>
-  <a href="https://twitter.com/dgsapenas" alt="Twitter" target="_blank">
+  <a href="https://twitter.com/douglasportodev" alt="Twitter" target="_blank">
     <img src="https://img.shields.io/badge/-@dgsapenas-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dgsapenas" />
   </a>
   <a href="https://www.linkedin.com/in/douglas-porto/" alt="LinkedIn" target="_blank">
