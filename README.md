@@ -36,9 +36,9 @@
 <img src="https://i.ibb.co/2y9RZ3s/IMG-3384.png" width="60px" />
 
 <!-- BLOG:START -->
-- [Como criar templates de páginas no Next.js](https://douglasporto.com.br/blog/como-criar-templates-de-paginas-no-next-js/)
-- [Arquitetura e Design System para projetos em React](https://douglasporto.com.br/blog/arquitetura-e-design-system-para-projetos-em-react/)
-- [Mudanças: virando um acionista](https://douglasporto.com.br/blog/mudanças-virando-um-acionista/)
-- [Mudanças: empreendedor interno](https://douglasporto.com.br/blog/mudanças-empreendedor-interno/)
-- [Mudanças: recolocação profissional](https://douglasporto.com.br/blog/mundanças-recolocação-profissional/)
+- [Como criar templates de páginas no Next.js](https://douglasporto.com.br/posts/como-criar-templates-de-paginas-no-next-js/)
+- [Arquitetura e Design System para projetos em React](https://douglasporto.com.br/posts/arquitetura-e-design-system-para-projetos-em-react/)
+- [Mudanças: virando um acionista](https://douglasporto.com.br/posts/mudanças-virando-um-acionista/)
+- [Mudanças: empreendedor interno](https://douglasporto.com.br/posts/mudanças-empreendedor-interno/)
+- [Mudanças: recolocação profissional](https://douglasporto.com.br/posts/mundanças-recolocação-profissional/)
 <!-- BLOG:END -->
